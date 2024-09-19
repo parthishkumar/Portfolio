@@ -1,5 +1,5 @@
 # Portfolio 
-`v1.1.0`
+`v1.2.0`
 
 `I am a Software Engineer/Developer learning devices and the prevailing softwares for over 2 decades now. I worked extensively on a helicopter control problem as presented in my PhD thesis. For the past 3 years, I have been focussing on C/C++ language based applications. My skill set is not limited to application development in C++ for an English Language Handwriting Recognition System (the most recent job experience). Coding has been fascinating me since my under graduate studies.`
 ***
@@ -40,6 +40,7 @@
 `SQL`
 ***
 ## Professional Certificates (latest first)
++ [AI-102 Microsoft Azure AI Solution Complete Exam Prep 2024](https://www.udemy.com/certificate/UC-a15251b2-1eb6-46a3-bbb5-7a868bf30ff8/ "AI-102 Microsoft Azure AI Solution Complete Exam Prep 2024")
 + [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/certificate/UC-abf7ccdc-26ac-4f78-bdb4-d39fb2817532/ "AZ-900: Microsoft Azure Fundamentals")
 + [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-7d31e223-19d1-4b6b-8f88-570b24e04c47/ "The Git & Github Bootcamp")
 + [CMake for Cross-Platform C++ Project Building](https://www.udemy.com/certificate/UC-dcd1b257-cbc4-4f14-8910-6d2c959ad408/ "CMake for Cross-Platform C++ Project Building")
